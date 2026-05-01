@@ -12,4 +12,4 @@ Computer Science & Math student at TU Dresden.
 - IT Asset Intelligence Platform  
 
 ## Tech
-Python · FastAPI · JavaScript · PHP · REST APIs · Git · Postman · JIRA
+Python · FastAPI · JavaScript · REST APIs · CSS . HTML 
