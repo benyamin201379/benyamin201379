@@ -11,5 +11,5 @@ Computer Science & Math student at TU Dresden.
 - SAP API Stress Tester  
 - IT Asset Intelligence Platform  
 
-## Tech
-Python · FastAPI · JavaScript · REST APIs · CSS . HTML 
+## TechPython 
+· FastAPI · REST APIs · API Testing & Automation · Performance Testing · Git · JIRA · JSON · Basic Frontend (HTML, CSS, JavaScript)
